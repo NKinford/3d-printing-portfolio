@@ -1,6 +1,6 @@
 # Minecraft Lantern
 
-![Finished Build](FinishedBuild.jpg)
+![Finished Build](FinishedLantern.jpg)
 
 ## Overview
 
